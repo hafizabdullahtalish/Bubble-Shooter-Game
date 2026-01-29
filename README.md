@@ -1,2 +1,2 @@
 # Bubble-Shooter-Game
-i biuld a bubble shooter game i  which i can include timer and target that can b change on every number ghess and at the end the score diplay and game restart button 
+A Bubble Shooter game that includes a timer and dynamic targets that change after each correct guess. The game displays the final score at the end and provides a restart button to play again.
